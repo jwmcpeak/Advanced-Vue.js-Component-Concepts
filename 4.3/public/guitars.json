@@ -1,0 +1,7 @@
+{
+    "guitars": [
+      {"id": 0, "name": "Explorer"},
+      {"id": 1, "name": "Vela"},
+      {"id": 2, "name": "Starla"}
+    ]
+  }
